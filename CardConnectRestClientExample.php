@@ -26,7 +26,7 @@ $user = "username";
 // Password
 $password = "password123";
 // Site's REST URL
-$url = 'https://sitename.prinpay.com:6443/cardconnect/rest';
+$url = 'https://sitename.cardconnect.com:6443/cardconnect/rest';
 
 // Run some auths
 $retref = authTransaction();
