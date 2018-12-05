@@ -44,7 +44,7 @@ class CardConnectRestClient {
 	/**
 	* Constructor to create a new CardConnectRestClient object
 	*
-	* @param string $ccurl CardConnect REST URL (https://sitename.prinpay.com:6443/cardconnect/rest/)
+	* @param string $ccurl CardConnect REST URL (https://sitename.cardconnect.com:6443/cardconnect/rest/)
 	* @param string $user Username
 	* @param string $pass Password
 	*/
